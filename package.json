@@ -1,0 +1,24 @@
+{
+  "name": "prueba-firebase-bootcamp",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsoRG0720/Prueba-Firebase-bootcamp.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "new"
+  ],
+  "author": "Alfonso RG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfonsoRG0720/Prueba-Firebase-bootcamp/issues"
+  },
+  "homepage": "https://github.com/AlfonsoRG0720/Prueba-Firebase-bootcamp#readme",
+  "description": ""
+}
